@@ -3,3 +3,4 @@ import {Component} from '@angular/core';
     template: '<h2>Well come to my app</h2>',
     selector: 'app-madini'
 })
+export class MadiniComponent{}
